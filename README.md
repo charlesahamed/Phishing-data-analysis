@@ -1,11 +1,12 @@
 # Phishing-data-analysis
 
 Phishing is a type of cyber attack in which a perpetrator attempts to trick individuals into providing sensitive information, such as login credentials or financial information, by posing as a reputable entity in electronic communication, such as email or social media messages. 
-The goal of a phishing attack is typically to steal personal information or money
+The goal of a phishing attack is typically to steal personal information or money. Here is an example url and its elements :
 
 https://www.example.com:443/path/to/file.html?param1=value1&param2=value2#fragment
 
 The domain name : www.example.com 
+
 Path:  "/path/to/"
 
 The "file" : ”file.html" 
