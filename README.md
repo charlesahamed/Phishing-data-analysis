@@ -1,7 +1,9 @@
 # Phishing-data-analysis
 
 Phishing is a type of cyber attack in which a perpetrator attempts to trick individuals into providing sensitive information, such as login credentials or financial information, by posing as a reputable entity in electronic communication, such as email or social media messages. 
-The goal of a phishing attack is typically to steal personal information or money. Here is an example url and its elements :
+The goal of a phishing attack is typically to steal personal information or money.
+
+Here is an example url and its elements :
 
 https://www.example.com:443/path/to/file.html?param1=value1&param2=value2#fragment
 
@@ -17,7 +19,7 @@ param: “?param1=value1&param2=value2” ( additional parameters )
 
 The dataset contains 10 000 urls and 75 numerical features including 1 class feature ( 1 = phishing , 0 = normal ) 
 
-The dataset can be found [here]()
+The dataset can be found [here](https://github.com/charlesahamed/Phishing-data-analysis/blob/main/Dataset%20for%20phishing%20detection.csv).
 
 # Analysis step and code 
 
