@@ -24,7 +24,7 @@ The dataset can be found [here](https://github.com/charlesahamed/Phishing-data-a
 # Analysis step and code 
 
 At first, with the code in Python I've performed some pre-processing, an exploratory analysis and tested some machine learning models ( KNN Classifier, Decision Tree Classifier and Random Forest ) on different sets of features to determine which features are the most usefull to guess that an url is phishing.
-The code can be found [here](https://github.com/charlesahamed/Phishing-data-analysis/blob/main/Financial_Data_Analysis_Project_Charles_AHAMED-checkpoint.ipynb).
+The code can be found [here](https://github.com/charlesahamed/Phishing-data-analysis/blob/main/Financial_Data_Analysis_Project_Charles_AHAMED.ipynb).
 
 # Presentation
 
